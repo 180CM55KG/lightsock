@@ -225,7 +225,7 @@ func Handle_conn(conn net.Conn) { //这个是在处理客户端会阻塞的代�
 }
 
 func main() {
-	addr := "127.0.0.1:6064"
+	//addr := "127.0.0.1:6064"
 	//serverdd = "127.0.0.1:9997"
 	//pss = "000"
 	//fmt.Println(os.Args)
